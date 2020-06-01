@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Developer Options Quick Toggle</string>
+    <string name="dev_options_toggle_name">Developer Options</string>
+</resources>
